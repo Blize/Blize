@@ -6,8 +6,8 @@
 ## Projects  
   
 🔭 I’m currently working on ...
-- 
-  [Portfolio] https://github.com/Blize/Portfolio
+
+ - [Portfolio] https://github.com/Blize/Portfolio
   
  - [FaceApp] https://github.com/Blize/FaceApp
   
