@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 
-**Blize/Blize** ✨ welcome ✨ here are some information's about me: 
+✨ welcome ✨ here are some information's about me: 
 
-#### Projects  
+## Projects  
   
 - 🔭 I’m currently working on ...
 - 
