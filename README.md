@@ -5,7 +5,7 @@
 
 ## Projects  
   
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 
   [Portfolio] https://github.com/Blize/Portfolio
   
@@ -14,7 +14,9 @@
 ## Impressum
 
 Matthias Mantsch
+
 16 Years Old
+
 Working at Swisscom
 
 📫 How to reach me: matthias@mantsch.ch
