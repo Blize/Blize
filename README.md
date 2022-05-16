@@ -13,6 +13,7 @@
   
 
 
-- 📫 How to reach me: matthias@mantsch.ch
+
+📫 How to reach me: matthias@mantsch.ch
 
 
