@@ -10,6 +10,8 @@
  - [Portfolio] https://github.com/Blize/Portfolio
   
  - [FaceApp] https://github.com/Blize/FaceApp
+
+(and some Privat Repositorys)
   
 ## Impressum
 
