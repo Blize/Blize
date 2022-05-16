@@ -3,7 +3,7 @@
 
 **Blize/Blize** ✨ welcome ✨ here are some information's about me: 
 
-####Projects  
+#### Projects  
   
 - 🔭 I’m currently working on ...
   [Portfolio] https://github.com/Blize/Portfolio
