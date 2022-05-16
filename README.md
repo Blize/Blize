@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
 
-✨ welcome ✨ here are some information's about me: 
+✨ welcome ✨ 
 
 ## Projects  
   
