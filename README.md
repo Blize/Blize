@@ -1,7 +1,7 @@
-# ✨ welcome ✨ 
+# ✨ Hey ✨ 
 
 
- Here some informations about me:
+ Welcome to my profile here are some informations about me:
 
 ## Projects  
   
@@ -11,7 +11,7 @@
   
  - [FaceApp] https://github.com/Blize/FaceApp
 
-(and some Privat Repositorys)
+(and some Privat Repositories)
   
 ## Impressum
 
