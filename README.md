@@ -9,7 +9,7 @@
 - 
   [Portfolio] https://github.com/Blize/Portfolio
   
-  [FaceApp] https://github.com/Blize/FaceApp
+ - [FaceApp] https://github.com/Blize/FaceApp
   
 
 
