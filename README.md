@@ -7,8 +7,8 @@
   
 🔭 I’m currently working on ...
 
- - [Portfolio] https://github.com/Blize/Portfolio
-  
+ - [Portfolio] https://github.com/Blize/Portfolio or https://blize.vercel.app
+ - [Portfolio-Simple] https:github.com/Blize/Portfolio-Simple or https://blize-simple.vercel.app
  - [FaceApp] https://github.com/Blize/FaceApp
 
 (and some Privat Repositories)
