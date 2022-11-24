@@ -9,7 +9,7 @@
 
  - [Portfolio] https://github.com/Blize/Portfolio
  - [Portfolio-Simple] https://github.com/Blize/Portfolio-Simple
- - [FaceApp] https://github.com/Blize/FaceApp
+ - [FaceApp] https://github.com/Blize/FaceApp (Only works on Windows)
 
 (and some Privat Repositories)
   
