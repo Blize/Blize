@@ -7,7 +7,7 @@
   
 🔭 I’m currently working on ...
 
- - [Portfolio] https://github.com/Blize/Portfolio
+ - Some private projects
 
 (and some Privat Repositories)
   
@@ -15,7 +15,7 @@
 
 Matthias Mantsch
 
-17 Years Old
+18 Years Old
 
 Working at Swisscom
 
