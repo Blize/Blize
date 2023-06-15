@@ -8,8 +8,6 @@
 🔭 I’m currently working on ...
 
  - Some private projects
-
-(and some Privat Repositories)
   
 ## Impressum
 
