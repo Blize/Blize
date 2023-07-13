@@ -7,7 +7,7 @@
   
 🔭 I’m currently working on ...
 
- - Some private projects
+ - Learning to code in C (Projects are following)
   
 ## Impressum
 
