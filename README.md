@@ -17,7 +17,7 @@ Matthias Mantsch
 
 Working at Swisscom
 
-📫 How to reach me: matthias@mantsch.ch
+📫 How to reach me: blize.developer@gmail.com
 
 ## Organisation
 
