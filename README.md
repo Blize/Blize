@@ -7,6 +7,7 @@
   
 🔭 I’m currently working on ...
 
+ - Making a dashboard for leauge of legends (Realease will be 01.04.2023)
  - Learning to code in C (Projects are following)
   
 ## Impressum
